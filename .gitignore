@@ -1,0 +1,11 @@
+# Quarto internal files (never commit)
+.quarto/
+.quarto_cache/
+
+# Jupyter artifacts (if ever used)
+**/*.quarto_ipynb
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
