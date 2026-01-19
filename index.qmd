@@ -1,0 +1,5 @@
+---
+title: "Swarna's Mathematical Corpus"
+---
+ This site is a growing library of mathematical definitions, theorems, and proofs,
+written with an emphasis on clarity, structure and explicit dependencies.
