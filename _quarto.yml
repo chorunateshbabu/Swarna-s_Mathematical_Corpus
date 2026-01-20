@@ -4,11 +4,14 @@ project:
 website:
   title: "Swarna's Mathematical Corpus"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - Logic.qmd
+  left:
+    - href: index.qmd
+      text: Home
+    - href: about.qmd
+      text: About
+    - href: Logic.qmd
+      text: Logic
+
 
 format:
   html:
